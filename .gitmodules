@@ -1,0 +1,3 @@
+[submodule "lib/bitonic_sort"]
+	path = lib/bitonic_sort
+	url = https://github.com/cfobel/python___bitonic_sort.git
